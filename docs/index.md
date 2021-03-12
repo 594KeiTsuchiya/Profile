@@ -1,5 +1,6 @@
 ---
 layout: default
+title: profile
 ---
 
 # 土谷慧
