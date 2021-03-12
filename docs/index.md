@@ -8,7 +8,6 @@ layout: default
 [Facebook](https://www.facebook.com/profile.php?id=100021568564188)
 
 tcykという名前で著作権フリーの曲作って配布してます。
-<iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLvLLEpCC4G4Pk0IiVVlSFpIVrKOCuLpAD" width="560"></iframe>
 
 - [Website](https://foobarbazhogehoge.blogspot.com/)
 - [YouTube](https://www.youtube.com/channel/UC2NnoJsfUcS-YSCcZRKV_Ow)
