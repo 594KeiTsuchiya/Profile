@@ -368,3 +368,7 @@ bt {
 .credits {
   color: #999;
 }
+
+iframe {
+  max-width: 100%;
+}
